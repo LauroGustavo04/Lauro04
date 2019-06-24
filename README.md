@@ -1,2 +1,2 @@
 # Lauro04
-Ajudar a desenvolvedores iniciantes.
+Ajudar desenvolvedores iniciantes.
